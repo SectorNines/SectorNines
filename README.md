@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SectorNine's
-- 👀 I’m interested in RPG games
+- 👀 I’m interested in RPG games, javascript
 - 🌱 I’m currently learning make a game in unity
 - 💞️ I’m looking to collaborate on unity
-- 📫 How to reach me? Subscrobe Fauzan Hartanto channel
+- 📫 How to reach me? Subscribe Fauzan Hartanto channel
 
 <!---
 SectorNines/SectorNines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
