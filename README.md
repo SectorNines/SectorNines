@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SectorNine's
-- 👀 I’m interested in RPG games, javascript
-- 🌱 I’m currently learning make a game in unity
+- 👀 I’m interested in RPG games, fullstack developer
+- 🌱 I’m currently learning make a game in unity and website
 - 💞️ I’m looking to collaborate on unity
 - 📫 How to reach me? Subscribe Fauzan Hartanto channel
 
